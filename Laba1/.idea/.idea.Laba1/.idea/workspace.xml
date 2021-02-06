@@ -13,7 +13,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a5ee62-4a89-4ebf-8689-ee705a826fc7" name="Default Changelist" comment="docs: start Laba1" />
+    <list default="true" id="94a5ee62-4a89-4ebf-8689-ee705a826fc7" name="Default Changelist" comment="docs: start Laba1">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laba1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Laba1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Laba1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Laba1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Laba1.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Laba1.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Laba1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Laba1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Laba1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Laba1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +39,15 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1nyzYCuhdfaBySxHXrsxV7bQJGh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +55,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -72,7 +94,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612377184015</updated>
-      <workItem from="1612377215586" duration="1266000" />
+      <workItem from="1612377215586" duration="1518000" />
+      <workItem from="1612622202276" duration="7465000" />
     </task>
     <task id="LOCAL-00001" summary="docs: start Laba1">
       <created>1612378711275</created>
@@ -87,7 +110,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -106,6 +130,86 @@
     <option name="LAST_COMMIT_MESSAGE" value="docs: start Laba1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1612629268219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612629268219" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1612629268218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612629268218" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1612629268218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612629268218" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1612629268219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612629268219" />
+    <state width="1877" height="382" key="GridCell.Tab.1.bottom" timestamp="1612628886704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886704" />
+    <state width="1877" height="382" key="GridCell.Tab.1.center" timestamp="1612628886704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886704" />
+    <state width="1877" height="382" key="GridCell.Tab.1.left" timestamp="1612628886704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886704" />
+    <state width="1877" height="382" key="GridCell.Tab.1.right" timestamp="1612628886704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886704" />
+    <state width="1877" height="382" key="GridCell.Tab.2.bottom" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.2.center" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.2.left" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.2.right" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.3.bottom" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.3.center" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.3.left" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.3.right" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.4.bottom" timestamp="1612628886706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886706" />
+    <state width="1877" height="382" key="GridCell.Tab.4.center" timestamp="1612628886706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886706" />
+    <state width="1877" height="382" key="GridCell.Tab.4.left" timestamp="1612628886705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886705" />
+    <state width="1877" height="382" key="GridCell.Tab.4.right" timestamp="1612628886706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612628886706" />
     <state x="552" y="269" key="Vcs.Push.Dialog.v2" timestamp="1612378840493">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
