@@ -90,14 +90,25 @@ namespace Laba2
 
         private void SerializeStudent(object sender, EventArgs e)
         {
-            using (FileStream fs = new FileStream("students.json", FileMode.OpenOrCreate))
+            if (!File.Exists("students.json"))
             {
-                JsonSerializer.SerializeAsync(fs, students);
+                using (FileStream fs = new FileStream("students.json", FileMode.OpenOrCreate))
+                {
+                    JsonSerializer.SerializeAsync(fs, students);
+                }
+            }
+            else
+            {
+                using (FileStream fs = new FileStream("students.json", FileMode.Append))
+                {
+                    JsonSerializer.SerializeAsync(fs, students);
+                }
             }
         }
 
         private void OutputStudentsInfo(object sender, EventArgs e)
         {
+            richTextBox1.Clear();
             string json = File.ReadAllText("students.json");
             List<Student> deserializedStudents = JsonSerializer.Deserialize<List<Student>>(json);
             foreach (var student in deserializedStudents)
@@ -119,6 +130,11 @@ namespace Laba2
         private void ClearField(object sender, EventArgs e)
         {
             richTextBox1.Clear();
+        }
+
+        private void About(object sender, EventArgs e)
+        {
+            MessageBox.Show("Какой-то чел");
         }
     }
 }
